@@ -20,7 +20,7 @@ Este repositório incluir:
 
 A estrutura do repositório pode incluir pastas como:
 
-- `platformio/` ou `firmware/`: código-fonte do sistema embarcado;
+- `platformio/`: código-fonte do sistema embarcado;
 - `scripts/`: rotinas de processamento e análise;
 - `dados/`: arquivos de entrada ou conjuntos de dados de exemplo;
 - `figuras/`: imagens e gráficos gerados no projeto;
