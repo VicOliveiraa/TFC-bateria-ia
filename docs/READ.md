@@ -1,3 +1,3 @@
 # Docs
 
-Esta pasta contem os artigos citados e os datasheets utilizados.
+Esta pasta contem os datasheets utilizados.
